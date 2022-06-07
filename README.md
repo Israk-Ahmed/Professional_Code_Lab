@@ -3,14 +3,16 @@
 ### Some Math Equation
 
 
-1. First item
+1. First item a.first sub-item A) first sub-sub-item b. second sub-item
+
 2. Second item
-3. Third item
+3. Third item a. second sub item
+
 4. Fourth item
 
-* 1st
-* 2nd
-  * sub 1st
-      * sub sub 1st
-      * sub sub 2nd
-* 3rd
+* First item
+* Second item
+	* first sub-item
+		* first sub-sub-item
+	* second sub-item
+* Third item
