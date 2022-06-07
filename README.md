@@ -1,7 +1,7 @@
 # Assignment 0: Markdown
 ## You have to write markdown
 ### Some Math Equation
-	a) $ x^2+y^2
+	a) When $a \ne 0$
 
 
 1. First item a.first sub-item A) first sub-sub-item b. second sub-item
