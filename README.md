@@ -19,11 +19,9 @@ $f_1(&omega;) = {&sigma;^2 \over 2&pi;},&omega;&in;[-&pi;,&pi;]$
     a. second sub item
     
 4. Fourth item
+    * First item
 
-* First item
-
-* Second item
-    
-    * first sub-item
-         * first sub-sub-item
-    * second sub-item
+    * Second item
+        * first sub-item
+            * first sub-sub-item
+        * second sub-item
