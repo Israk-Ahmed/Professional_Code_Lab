@@ -18,14 +18,12 @@ $f_1(&omega;) = {&sigma;^2 \over 2&pi;},&omega;&in;[-&pi;,&pi;]$
 3. Third item
     a. second sub item
     
-4. Fourth Item
+4. Fourth item
 
-   * First Item
+* First item
 
-   * Second Item
-
-       * first sub-item
-
-            * first sub-sub item
-
-       * second sub-item
+* Second item
+    
+    * first sub-item
+         * first sub-sub-item
+    * second sub-item
