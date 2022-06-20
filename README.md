@@ -25,4 +25,8 @@ $f_1(&omega;) = {&sigma;^2 \over 2&pi;},&omega;&in;[-&pi;,&pi;]$
         * second sub-item
 
 
+
 ![Brown Cat](brown-cat.png)
+
+
+# Table with alignment
