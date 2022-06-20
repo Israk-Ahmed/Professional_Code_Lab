@@ -23,3 +23,6 @@ $f_1(&omega;) = {&sigma;^2 \over 2&pi;},&omega;&in;[-&pi;,&pi;]$
         * first sub-item
             * first sub-sub-item
         * second sub-item
+
+
+![Brown Cat](brown-cat.png)
